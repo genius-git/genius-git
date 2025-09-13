@@ -12,4 +12,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=genius-git&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=genius-git&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=genius-git&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
